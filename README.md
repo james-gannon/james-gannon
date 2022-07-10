@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @james-gannon
 - 👀 I’m interested in blockchain development, distributed and edge computing, secure proof of ownership for non-fungible assets
 - 🌱 I’m currently learning Solidity for ETH smart contracts, smart contract security auditing, and the ways of #CryptoTwitter
-- 💞️ I’m looking to collaborate on tokenized handcrafted artwork, blockchain for autonomous systems, and the building of the metaverse.
+- 💞️ I’m looking to collaborate on tokenized handcrafted artwork, blockchain for autonomous systems, and helping businesses and individuals integrate with the digital asset class.
 - 📫 How to reach me: jgannon.space
